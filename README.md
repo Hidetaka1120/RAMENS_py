@@ -38,4 +38,4 @@ arr=np.mean(np.log10(data['te'][t,:,:]),axis=1)
 ax1.set_xlabel('X [Mm]')
 ax1.set_ylabel('Z [Mm]')
 ```
-![alt text](https://drive.google.com/file/d/1YukFL8WhUgpTTmQLJLP0cFYDRb28_1Qe/view?usp=sharing)
+![alt text](images/te-0360.png)
