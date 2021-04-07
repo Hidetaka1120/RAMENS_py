@@ -1,7 +1,7 @@
 # RAMENS_py
 Python code for analyzing the result of RAMENS. This code is based on dac_read.py of CANS+(http://www.astro.phys.s.chiba-u.ac.jp/cans/doc/).
 
-## Usage
+## Usage example
 
 ```python
 import numpy as np
@@ -38,3 +38,4 @@ arr=np.mean(np.log10(data['te'][t,:,:]),axis=1)
 ax1.set_xlabel('X [Mm]')
 ax1.set_ylabel('Z [Mm]')
 ```
+![alt text](https://drive.google.com/file/d/1YukFL8WhUgpTTmQLJLP0cFYDRb28_1Qe/view?usp=sharing)
